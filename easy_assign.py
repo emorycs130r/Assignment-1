@@ -16,7 +16,6 @@ DO NOT EDIT THE FUNCTION NAMES.
 
 def append_two_strings(string_1, string_2):
 
-    print("Hello World")
     pass
 
 
